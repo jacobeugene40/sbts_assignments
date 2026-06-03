@@ -366,7 +366,7 @@ After installation, I opened my terminal and run:
 ```bash
 git --version
 ```
-![alt text](<images/Screenshot from 2026-06-03 10-18-21.png>)
+![alt text](<../../images/Screenshot from 2026-06-03 10-18-21.png>)
 
 ### Example Output
 
@@ -453,7 +453,7 @@ git config --global --list
 ```
 Finally i installed git graph to enable me view my commits and here are my outputs:
 
-![alt text](<images/Screenshot from 2026-06-03 10-48-13.png>)
+![alt text](<../../images/Screenshot from 2026-06-03 10-48-13.png>)
 
 The output confirmed that the username and email were saved correctly in Git's global configuration.
 
@@ -654,9 +654,9 @@ git push origin main
 ```
 
 Insert GitHub screenshot.
-![alt text](<images/Screenshot from 2026-06-03 11-18-41.png>)
+![alt text](<../../images/Screenshot from 2026-06-03 11-18-41.png>)
 
-![alt text](<images/Screenshot from 2026-06-03 11-19-14.png>)
+![alt text](<../../images/Screenshot from 2026-06-03 11-19-14.png>)
 
 ## 24. Write a compelling README.md for a fictional open-source project. Include at minimum: project title, badges, description, installation steps, usage examples, contributing guidelines, and licence section. Use proper Markdown formatting.
 
